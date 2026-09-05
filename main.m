@@ -1,4 +1,4 @@
-% math.m
+
 % Basic math and matrix operations example
 
 %% 1. Simple arithmetic
