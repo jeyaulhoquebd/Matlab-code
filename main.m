@@ -29,8 +29,8 @@ disp('Inverse of A:');
 disp(F);
 
 %% 3. E = mc^2 (same as the Python example earlier)
-mass = 1;              % kilograms
-c = 299792458;         % speed of light (m/s)
+mass = 1;              
+c = 299792458;         
 Energy = mass * c^2;
 
 fprintf('Energy (E = mc^2): %.4e joules\n', Energy);
