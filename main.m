@@ -15,9 +15,9 @@ A = [1 2; 3 4];
 B = [5 6; 7 8];
 
 C = A + B;          
-D = A * B;          % matrix multiplication
-E = A';             % transpose
-F = inv(A);         % inverse
+D = A * B;          
+E = A';             
+F = inv(A);         
 
 disp('Matrix A + B:');
 disp(C);
