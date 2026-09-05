@@ -14,7 +14,7 @@ disp(['Power (a^2): ', num2str(a^2)]);
 A = [1 2; 3 4];
 B = [5 6; 7 8];
 
-C = A + B;          % matrix addition
+C = A + B;          
 D = A * B;          % matrix multiplication
 E = A';             % transpose
 F = inv(A);         % inverse
