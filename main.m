@@ -1,5 +1,5 @@
 
-% Basic math and matrix operations exa
+% Basic math and matrix operations ex
 
 %% 1. Simple arithmetic
 a = 10;
